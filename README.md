@@ -1,2 +1,2 @@
-# Proyecto ecomerce en EDteam con React
+# Proyecto ecomerce con React
 codear en el curso!!
